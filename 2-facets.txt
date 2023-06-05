@@ -1,0 +1,18 @@
+The 2-facets to our Native Town is crucial. 
+2-facets is mentioned (without naming it as "2-facets") in https://github.com/nativeTown/overview/blob/main/overview -- this is further to it. 
+
+
+These 2-facets is a legal/accounting separation -- 
+
+1. Land/town management on me-- 
+2. A non-profit body/management -- s.t. it can take donations and donors can show their donations to us as tax deductions. 
+
+Diff between (1) & (2) need to be shaped -- 
+
+* first&foremost -- my credibility -- i don't want anyone wasting our time that I'm "misusing donations"
+
+* land-related things-- eg.sewage system-- it's related to the property/land. but it's for the use of the town members. Me covering its cost may delay things. But then donations going into my land isn't right-- a very grey area. a sewage system can't be physically moved or anything. These should be regulated. 
+
+* Not for regulating these 2-facets, but as a support/utility as we operate -- 
+An open-ledger system might just be so very well-- what the "doctor ordered." Feasibility ?
+Open-ledger = shows ALL the money that is donated, by the names of the donors (code names if they wanna remain anonymous), and all the movements of those $ by timestamps. This ledger is posted in the sky-- anyone can see anytime. 
